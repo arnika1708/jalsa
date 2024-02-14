@@ -1,0 +1,47 @@
+.menu-container {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 800;
+    font-size: 25px;
+  }
+  
+  .header-with-image2 {
+    background-image: url("../src/assets/menuimg2.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff; /* Optional: Adjust text color to be visible against the background */
+  }
+  
+  table {
+      width: 88%;
+      border-collapse: collapse;
+      margin-bottom: 20px;
+      border-bottom:1px solid black;
+      margin: 0 auto;
+    }
+    
+  
+    th, td {
+      border: 1px solid #ddd;
+      padding: 35px;
+      text-align: center;
+      border:none;
+     
+    }
+  
+    th {
+      background-color: #f2f2f2;
+    }
+  
+    .wide-column {
+      width: 176px; /* Adjust the width as needed */
+  }
+  
+    .wide-column-1{
+      width: 218px;
+  
+  }
+  
